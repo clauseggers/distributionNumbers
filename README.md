@@ -2,7 +2,7 @@
 
 <img width="1059" alt="opticalsizes" src="https://github.com/clauseggers/distributionNumbers/assets/868987/00ec7523-8ff7-4085-8239-3338482b4f65">
 
-This is two example Numbers spreadsheets that allow you to hand-tweak the axis-mapping and translation of interpolation values.
+These are two example Numbers spreadsheet that allow you to hand-tweak the axis-mapping and translation of interpolation values.
 
 The Weight spreadsheet is a simple example of an exponential distribution.
 
