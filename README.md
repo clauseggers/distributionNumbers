@@ -1,6 +1,6 @@
 # Distribution of Numbers
 
-<img width="864" alt="optical_sizes" src="https://github.com/clauseggers/distributionNumbers/assets/868987/e05eab11-d975-47cd-9ad0-59f4eb370ae0">
+<img width="1059" alt="opticalsizes" src="https://github.com/clauseggers/distributionNumbers/assets/868987/00ec7523-8ff7-4085-8239-3338482b4f65">
 
 This is two example Numbers spreadsheets that allow you to hand-tweak the axis-mapping and translation of interpolation values.
 
