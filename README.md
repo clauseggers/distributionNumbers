@@ -1,4 +1,7 @@
 # Distribution of Numbers
+
+<img width="864" alt="optical_sizes" src="https://github.com/clauseggers/distributionNumbers/assets/868987/e05eab11-d975-47cd-9ad0-59f4eb370ae0">
+
 This is two example Numbers spreadsheets that allow you to hand-tweak the axis-mapping and translation of interpolation values.
 
 The Weight spreadsheet is a simple example of an exponential distribution.
